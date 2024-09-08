@@ -26,7 +26,7 @@ This Python application visualizes various sorting algorithms using Tkinter. It 
 2. Navigate to the project directory:
 
     ```
-    cd sorting-algorithm-visualization
+    cd sorting-visualizer
     ```
 
 3. Run the application:
