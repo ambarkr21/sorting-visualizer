@@ -20,7 +20,7 @@ This Python application visualizes various sorting algorithms using Tkinter. It 
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/sorting-algorithm-visualization.git
+    git clone https://github.com/ambarkr21/sorting-visualizer.git
     ```
 
 2. Navigate to the project directory:
